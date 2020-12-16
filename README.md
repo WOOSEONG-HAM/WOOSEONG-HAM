@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=4FC08D&height=150&section=header&text=WooseongHAM&fontSize=40&fontColor=ffffff&fontAlign=80&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=4FC08D&height=200&section=header&text=WooseongHAM&fontSize=40&fontColor=ffffff&fontAlign=80&animation=twinkling" />
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWOOSEONG-HAM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                                      
 <h2 align="center">Tech Stack</h2>
@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/></a></p>
 
-<p align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a></p>
+<a herf="#"><p align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a herf="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a herf="#"><img src="https://img.shields.io/badge/tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a></p>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=F7DF1E&width=100%&height=150&section=footer&fontSize=60&rotate=180" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=F7DF1E&height=200&section=footer&fontSize=60&rotate=180" />
