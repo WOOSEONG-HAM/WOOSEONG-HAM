@@ -18,6 +18,7 @@
 <p align="center"><img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=MongoDB&logoColor=white"/></a></p>
 
 <p align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
