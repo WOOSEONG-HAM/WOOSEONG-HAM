@@ -1,7 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=4FC08D&height=200&section=header&text=WooseongHAM&fontSize=40&fontColor=ffffff&fontAlign=80&animation=twinkling" />
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWOOSEONG-HAM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                                      
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWOOSEONG-HAM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
+
 <h1 align="center">:balloon:Tech Stack:balloon:</h2>
+
+
 <p align="center"><img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/></a>
@@ -22,5 +26,6 @@
 <a herf="#"><p align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a herf="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a herf="#"><img src="https://img.shields.io/badge/tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a></p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=F7DF1E&height=200&section=footer&fontSize=60&rotate=180" />
