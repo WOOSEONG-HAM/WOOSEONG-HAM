@@ -5,6 +5,7 @@
 
 <h1 align="center">:balloon:Tech Stack:balloon:</h1>
 
+<p>These are technologies that I've used at least once so far.</p>
 
 <p align="center"><img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
