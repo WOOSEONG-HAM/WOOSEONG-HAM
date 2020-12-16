@@ -28,7 +28,7 @@
 
 <a herf="#"><p align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a herf="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a herf="#"><img src="https://img.shields.io/badge/ech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a></p>
+<a herf="#"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a></p>
 
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=F7DF1E&height=200&section=footer&fontSize=60&rotate=180" />
