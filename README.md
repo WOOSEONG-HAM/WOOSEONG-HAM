@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=Json&logoColor=white"/></a>
@@ -22,4 +22,4 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=4FC08D&height=150&section=footer&fontSize=60&rotate=180" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=F7DF1E&height=150&section=footer&fontSize=60&rotate=180" />
