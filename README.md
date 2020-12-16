@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/></a></p>
 
+<h3 align="center">If there is a problem with me, please leave a message anytime.</h3>
+
 <a herf="#"><p align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a herf="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a herf="#"><img src="https://img.shields.io/badge/tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a></p>
