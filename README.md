@@ -22,4 +22,4 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&fontSize=60&rotate=-180" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&fontSize=60&rotate=180" />
