@@ -3,9 +3,9 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWOOSEONG-HAM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
 
-<h1 align="center">:balloon:Tech Stack:balloon:</h1>
+<h1 align="center">:balloon:Tech Stack:balloon:</h1><br/><br/>
 
-<h3 align="center">These are technologies that I've used at least once so far.</h3>
+<h3 align="center">These are technologies that I've used at least once so far.</h3><br/>
 
 <p align="center"><img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/></a></p>
 
-<h3 align="center">If there is a problem with me, please leave a message anytime.</h3>
+<br/><h3 align="center">If there is a problem with me, please leave a message anytime.</h3><br/>
 
 <a herf="#"><p align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a herf="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
