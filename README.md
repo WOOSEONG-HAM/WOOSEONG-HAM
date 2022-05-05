@@ -4,10 +4,22 @@
 <h3 align="center">These are technologies that I've used at least once so far.</h3><br/>
 
 <p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-ffffff?&logo=express&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Nest-E0234E?&logo=nestjs&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?&logo=AmazonAWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
+ </p>
 
 <br/><h3 align="center">If you find any problem with me, please send me a message anytime.</h3><br/>
 
