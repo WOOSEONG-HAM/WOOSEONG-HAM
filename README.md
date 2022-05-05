@@ -1,7 +1,12 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWOOSEONG-HAM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
-<h1 align="center">🧡 Hey There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1><br/><br/>
+<a href="https://hits.seeyoufarm.com">
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWOOSEONG-HAM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a> 
+<h1 align="center">🧡 Hey There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">These are technologies that I've used at least once so far.</h3><br/>
+<br/><br/>
+
+<h3 align="center">These are technologies that I've used at least once so far.</h3>
+<br/>
 
 <div align="center">
  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" />
@@ -35,7 +40,19 @@
  <img src="https://img.shields.io/badge/-Slack-4A154B?logo=Slack&logoColor=white" />
 </div>
 
-<br/><h3 align="center">If you find any problem with me, please send me a message anytime.</h3><br/>
+<br/>
+
+<h3 align="center">If you find any problem with me, please send me a message anytime.</h3>
+
+<br/>
+
+<div align="center">
+ <a href="https://instagram.com/ws_608"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://mail.google.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="https://velog.io/@wsham"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</div>
+
+<br/>
 
 ---
 <div align="center">
@@ -43,8 +60,3 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOOSEONG-HAM&theme=default&show_icons=true" />
 </div>
 
-<div align="center">
- <a href="https://instagram.com/ws_608"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
- <a href="https://mail.google.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://velog.io/@wsham"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-</div>
