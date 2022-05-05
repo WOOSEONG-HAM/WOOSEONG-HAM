@@ -37,6 +37,13 @@
 
 <br/><h3 align="center">If you find any problem with me, please send me a message anytime.</h3><br/>
 
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=davidstutz&count_private=true&show_icons=false&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
+
+---
+
 <div align="center">
  <a href="https://instagram.com/ws_608"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="https://mail.google.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
