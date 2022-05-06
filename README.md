@@ -52,7 +52,7 @@
  <a href="https://velog.io/@wsham"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
 
-<br/><br/>
+--
 
 <div align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=WOOSEONG-HAM&count_private=true&show_icons=false&theme=default" />
