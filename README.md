@@ -9,6 +9,7 @@
 <br/>
 
 <div align="center">
+ <img src="https://img.shields.io/badge/-SVELTE-E34F26?logo=SVELTE&logoColor=white" />
  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" />
  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white" />
  <img src="https://img.shields.io/badge/-SCSS-CC6699?logo=Sass&logoColor=white" />
